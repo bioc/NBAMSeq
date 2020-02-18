@@ -1,3 +1,8 @@
+Changes in version 1.2.1 (2020-02-18)
++ The default gamma parameter in NBAMSeq changed from 2 to 2.5.
++ The NBAMSeq function now supports fitting linear model after 
+  fitting GAM model.
+
 Changes in version 1.1.1 (2019-08-16)
 + Added a new function makeplot
 + Visualization part in vignette is modified
